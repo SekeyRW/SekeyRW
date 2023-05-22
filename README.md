@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SekeyRW&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://images3.memedroid.com/images/UPLOADED56/644a4e70c8639.webp" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SekeyRW&icon=5&color=5)](https://visitcount.itsvg.in)
