@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SekeyRW&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://javascript.plainenglish.io/life-of-a-programmer-in-simple-jokes-that-will-make-you-laugh-52ccfbf77438" width="512px"/>
+<img src="https://miro.medium.com/v2/resize:fit:1290/0*s2ivt9cecdqsXvts.gif" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SekeyRW&icon=5&color=5)](https://visitcount.itsvg.in)
